@@ -17,6 +17,10 @@ a {
   text-decoration: none;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+}
 .main-container {
   margin: 20px;
 }
